@@ -13,8 +13,7 @@
         The assignment taught us how to use jquery to respond to the user's request. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://halltisa.github.io/Lesson7_jQuery/
 
 ### Lessons Learned in the Assignment:
 1. I learned how to use the fade in method to make the words fade in slowly when clicked.
